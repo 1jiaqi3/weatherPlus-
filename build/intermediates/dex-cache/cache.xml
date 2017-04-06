@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_4da2d3261acd583c92d29deee8cbebdc5e5306c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_005e37ec05e8dbc7d096569d1da60b823e7eb65b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_540bb4a67db2b42a501e20ed198b0a235f46761c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_7e1e2ff82dddc60066e67bb71bc0391f980f048e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_197857723439d3306b7be43280f430fb3daec991/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_195c17a84fda6980e644ecb93600f062bf6026ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_f8ab1dc84f4bc8c98839e68b442cade94f625db5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_ee8c45ef42fbd9031bf0c4006e87d16830f84e22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_81a77a5c23ce2e45a695da9ab48eb95ff188fd06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0330f7a9b0d0bc384ef4d1c4ca06dcae3c5fb50a">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_397977bf637971d6aae05f501928ec417b6388bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_17450b2305d17aee3d23feb14334a4d104dad534/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_81932710d13f967b83384f9cedf6728c734aa5c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_872370f1e316c8f88bef7a054f202f651dab8140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3558baea810e0bf81b4a8aa1fc8ce1a29b04c4eb">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_80e91da0f189cc9c468c770c7d87ff5d6ae797fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_bd5609519997f07d47761db13a6d8411133af900/classes.dex" />
+    </item>
+
+</items>
