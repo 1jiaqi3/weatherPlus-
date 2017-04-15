@@ -1,9 +1,13 @@
 package com.example.androidmac.sunshine;
 
+import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
+import android.support.v4.app.ShareCompat;
 import android.text.format.Time;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -57,27 +61,32 @@ public class MainActivityFragment extends Fragment {
     public boolean onOptionsItemSelected(MenuItem menuItem) {
         int id = menuItem.getItemId();
         if (id == R.id.action_fresh) {
-            FetchWeatherTask task = new FetchWeatherTask();
-            task.execute("37235");
+            updateWeather();
             return true;
         }
         return super.onOptionsItemSelected(menuItem);
+    }
+    private void updateWeather() {
+        FetchWeatherTask task = new FetchWeatherTask();
+        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getActivity());
+        String location = prefs.getString("location", "37235");
+        task.execute(location);
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+        updateWeather();
     }
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_main, container, false);
 
-        ArrayList<String> weathers = new ArrayList<>(Arrays.asList(
-                "Today-Sunny",
-                "Tomorrow-Rainy",
-                "Wed-Windy",
-                "Thu-Snowy"
-        ));
         mForecastAdapter = new ArrayAdapter<String>(getActivity(),
                                                     R.layout.list_item_layout,
                                                     R.id.list_item_textView,
-                                                    weathers);
+                                                    new ArrayList<String>());
 
         ListView listView = (ListView)rootView.findViewById(R.id.list_forecast);
 
@@ -87,7 +96,9 @@ public class MainActivityFragment extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 String forecast = mForecastAdapter.getItem(position);
-                Toast.makeText(getActivity(), forecast, Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getActivity(), forecast, Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(getActivity(), DetailActivity.class).putExtra(Intent.EXTRA_TEXT, forecast);
+                startActivity(intent);
             }
         });
 

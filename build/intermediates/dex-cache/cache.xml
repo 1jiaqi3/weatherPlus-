@@ -3,138 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_4da2d3261acd583c92d29deee8cbebdc5e5306c8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_005e37ec05e8dbc7d096569d1da60b823e7eb65b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_540bb4a67db2b42a501e20ed198b0a235f46761c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jar="/Users/mac/.android/build-cache/03115790057431e18f52e03d45883c6a4fd97493/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_7e1e2ff82dddc60066e67bb71bc0391f980f048e/classes.dex" />
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2b26b1775ce8d4c955d435576a34042eb9c9da8/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jar="/Users/mac/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_197857723439d3306b7be43280f430fb3daec991/classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e83baf2de4ea4bc9552aa863aa942db3807947bb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c432c64a32297a5c9892487eb4792075f89eed2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/cc624cc99815dbdb04e49cbfb7ad8c9852cccdaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c5443b7e4589ec2137d74aa17b291e1857c56ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/2b8517360b20db4a82629bc3f8ea9a7e839b17c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccb73b56a2b0332a3a432567ed740c362e3ac003/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/weatherPlus-/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1f2b8e11339f4d8ab4cee864f2f9f0c694b0d4c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/9af523eecdb6355b54fb6c3f16bf47ad31b7d520/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e315fd28839dfbea0836e7f872d12ebe297926f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/8769884b2127ccb7383e79e9dd2d3291928d9a7f/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_195c17a84fda6980e644ecb93600f062bf6026ad/classes.dex" />
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01cab448630ee4776e4bf67c7d4c0f805d108dff/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jar="/Users/mac/.android/build-cache/516cc6a6f88b2afdf6c020d13075aff081f7d368/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_f8ab1dc84f4bc8c98839e68b442cade94f625db5/classes.dex" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8762f5bed6b0e7aaf5685229bd5a113d90106a1a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_ee8c45ef42fbd9031bf0c4006e87d16830f84e22/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_81a77a5c23ce2e45a695da9ab48eb95ff188fd06/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0330f7a9b0d0bc384ef4d1c4ca06dcae3c5fb50a">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_397977bf637971d6aae05f501928ec417b6388bb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_17450b2305d17aee3d23feb14334a4d104dad534/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_81932710d13f967b83384f9cedf6728c734aa5c3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jar="/Users/mac/.android/build-cache/bd10134e78a6062ac90dd3df3ac6b14d2f09d237/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_872370f1e316c8f88bef7a054f202f651dab8140/classes.dex" />
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69312dddabadb6bd5332260c08d36eee95690e90/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/mac/.android/build-cache/4034716e0dd5405ff2abf7c56e73152e8ebc03bb/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3558baea810e0bf81b4a8aa1fc8ce1a29b04c4eb">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_80e91da0f189cc9c468c770c7d87ff5d6ae797fa/classes.dex" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6612323a74e7cb971176728abd8f02ac5939ec2c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jar="/Users/mac/weatherPlus-/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/Users/mac/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_bd5609519997f07d47761db13a6d8411133af900/classes.dex" />
+        sha1="4031ae6b65eef03ce6ec75b3895cfee79742cf87">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b2947f977ad076709c0e9910eacec0fc271dfb1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ee2c88712895be114f8f7eda4b203c8407fe3f8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23b274b17550e9e2747d6a865a55483950910de5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/18ce66865dc0fab6445b3e12d39455c97d7802f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15e4099bc3cf5d8455314b0a57497d2bb0f34d9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/70eeb544688c3a24f840f2ee15b6b3624272d378/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb880bfea681bccb2613e2d614155f0ffbf65613/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/e7bb58355ed45a0f66b54624b3bff123dc44d828/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99d198e01ec3cf622c378d4315970faf3bebb33e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/dea82a5228b656bf8097ca4ce2e306dedf46573c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/mac/weatherPlus-/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7b79457ecf022e3abcbc12157eff7b411c9361e/classes.dex" />
     </item>
 
 </items>
